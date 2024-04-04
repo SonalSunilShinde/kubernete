@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind:  DaemonSet
 metadata: 
-  name: daemon-1
+  name: sonal_daemon
   labels:
     app: depapp
 spec:
