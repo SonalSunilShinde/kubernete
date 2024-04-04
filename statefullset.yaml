@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind:  StatefulSet
 metadata: 
-  name: statefull
+  name: statefull-1
   labels:
     app: depapp
 spec:
