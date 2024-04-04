@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind:  DaemonSet
 metadata: 
-  name: daemon
+  name: daemon-1
   labels:
     app: depapp
 spec:
